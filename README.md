@@ -16,10 +16,7 @@ Responsiveness:
 The clock's responsive design allows it to adapt seamlessly to different screen sizes and devices.
 Media queries are used to adjust the clock's dimensions and hand lengths for optimal display on various devices.
 Contributions:
-While contributions to this project are not open to the public, developers can learn from the codebase for educational purposes. Feel free to explore and experiment with the code to understand how it works and improve your web development skills.
-
-License:
-This project is privately owned and not subject to any licensing restrictions. It is intended for personal use and learning purposes.
+Developers can learn from the codebase for educational purposes. Feel free to explore and experiment with the code to understand how it works and improve your web development skills.
 
 Feedback:
 Feedback on the Analog Clock Project is welcome and can help improve its features and usability. Please share your thoughts or suggestions directly with the project owner for consideration.
